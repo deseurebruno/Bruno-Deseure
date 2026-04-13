@@ -206,7 +206,7 @@
     </section>
     
     <footer>
-        <p><a href="https://brunodeseurecv.000webhostapp.com">©Bruno deseure</a> 2021</p>
+        <p><a href="https://deseurebruno.github.io/Bruno-Deseure">©Bruno deseure</a> 2026</p>
            </footer>
 </body>
 
