@@ -42,7 +42,7 @@
             </div>
             <div class="contact-flex">
                 <p>Permis :</p>
-                <p>B et A1</p>
+                <p>B, A1 et A2</p>
             </div>
             <div class="contact-flex">
             	<p>Réseau sociaux :</p>
