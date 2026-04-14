@@ -14,7 +14,7 @@
         <div class="photo">
             <img src="brunocv.jpg" alt="Ma photo d'identité">
         </div>
-      
+        <div class="prez">
             <h2>Présentation</h2>
             <p>D’un naturel curieux, rigoureux et méthodique, je me suis passionné d’informatique et de nouvelles technologies.
 			Diagnostiquer les problèmes liés aux incidents , créer des ordinateurs, les monter et les démonter font partis de mes loisirs.
