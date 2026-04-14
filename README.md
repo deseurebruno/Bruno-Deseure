@@ -16,9 +16,11 @@
         </div>
         <div class="prez">
             <h2>Présentation</h2>
-            <p>D’un naturel curieux, rigoureux et méthodique, je me suis passionné d’informatique et de nouvelles technologies.
-			Diagnostiquer les problèmes liés aux incidents , créer des ordinateurs, les monter et les démonter font partis de mes loisirs.
-			Habitué à travailler sur plusieurs logiciels (Word, Excel, Publisher, Création 3 D, Montage vidéo et Retouche photo …) je sais m’adapter aux besoins, aux aléas des situations et être à l’écoute pour résoudre les problèmes auxquels je suis confronté.
+            <p>Fort de 20 ans d'expérience en entreprise, j'ai développé une grrande rigueur et un sens aigu des responsabilités.
+			D’un naturel curieux, rigoureux et méthodique, mon parcours m'a permis d'acquerir une solide capacité d'adaptation et
+			une vigilance constante en matière de sécurité et de respect des process.
+			Titulaire d'un baccalauréat tecchnique, je suis aujourdh'ui déterminé à mettre ma réactivité et mon esprit d'équipe 
+			au profit d'un environnement industriel exigeant.
 			</p>
             <a href="cvbrunoorano.pdf" target="_blank" download>Télécharger mon CV</a>
         </div>
