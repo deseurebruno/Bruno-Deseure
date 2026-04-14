@@ -16,6 +16,7 @@
         </div>
         <div class="prez">
             <h2>Présentation</h2>
+			<h2 id="présentation" class="no-anchor">Présentation</h2>
             <p>Fort de 20 ans d'expérience en entreprise, j'ai développé une grrande rigueur et un sens aigu des responsabilités.
 			D’un naturel curieux, rigoureux et méthodique, mon parcours m'a permis d'acquerir une solide capacité d'adaptation et
 			une vigilance constante en matière de sécurité et de respect des process.
