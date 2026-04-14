@@ -20,7 +20,7 @@
 			Diagnostiquer les problèmes liés aux incidents , créer des ordinateurs, les monter et les démonter font partis de mes loisirs.
 			Habitué à travailler sur plusieurs logiciels (Word, Excel, Publisher, Création 3 D, Montage vidéo et Retouche photo …) je sais m’adapter aux besoins, aux aléas des situations et être à l’écoute pour résoudre les problèmes auxquels je suis confronté.
 			</p>
-            <a href="cvbruno.pdf" target="_blank" download>Télécharger mon CV</a>
+            <a href="cvbrunoorano.pdf" target="_blank" download>Télécharger mon CV</a>
         </div>
         <div class="contact">
             <h2>Informations de contact</h2>
